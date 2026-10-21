@@ -1,0 +1,10 @@
+reportlab
+matplotlib
+pandas
+langchain
+langchain-groq
+langchain-core
+python-dotenv
+pydantic
+ipykernel
+groq
