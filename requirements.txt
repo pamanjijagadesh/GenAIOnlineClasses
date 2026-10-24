@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 reportlab
 matplotlib
 pandas
@@ -11,3 +12,15 @@ groq
 fastapi
 uvicorn
 langgraph
+=======
+reportlab
+matplotlib
+pandas
+langchain
+langchain-groq
+langchain-core
+python-dotenv
+pydantic
+ipykernel
+groq
+>>>>>>> 95b1f07196b169caaade289b78a85f231a8ba442
